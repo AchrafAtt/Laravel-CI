@@ -22,7 +22,7 @@ class User extends Authenticatable
         'email',
         'password',
     ];
-
+//!just a bad pull request
     /**
      * The attributes that should be hidden for serialization.
      *
